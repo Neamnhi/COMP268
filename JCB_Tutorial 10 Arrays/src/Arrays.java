@@ -19,6 +19,8 @@ public class Arrays {
 		// when you type int, you actually mean create enough memory to hold a
 		// 32-bit integer
 		int value = 7;
+		System.out.println(value);
+		System.out.println();
 
 		// You can actually create a variable that can refer to a whole list of
 		// integers
@@ -82,7 +84,7 @@ public class Arrays {
 			System.out
 					.println("The value in the initialed and filled array is: "
 							+ numbers[i]);
-
+			
 		}
 
 	}
