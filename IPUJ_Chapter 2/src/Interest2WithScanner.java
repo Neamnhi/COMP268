@@ -32,6 +32,8 @@ public class Interest2WithScanner {
 
         System.out.printf("The amount of interest is $%1.2f%n", interest);
         System.out.printf("The value after one year is $%1.2f%n", principal);
+        
+		stdin.close(); // I added this to close stdin to get rid of the "stdin is never closed" error
 
     } // end of main()
 
