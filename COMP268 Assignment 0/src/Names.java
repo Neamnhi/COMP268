@@ -34,7 +34,7 @@
  *  If yes, then repeat loop
  *  If no, then go to next stage of program
  *  
- *  Stage 2 (for loop maybe?)
+ *  Stage 2 (for loop maybe?
  *  Enter the first name of the person that you're looking for
  *  If first name = 1.. 2.. 3.. 4.. 
  *  	Increment counter +1
@@ -42,6 +42,7 @@
  *  	Repeat until counter = 1
  *  If counter equals 1 then ask user if they want to search for another name
  *  If answer is Y, repeat the loop
+ *  Reset counter to 0
  *  	else answer is N, say goodbye *  
  * 
  */
