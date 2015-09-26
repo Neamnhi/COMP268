@@ -9,7 +9,7 @@
 
 // Tutorial 4 - While Loops
 
-public class ForLoops {
+public class WhileLoops {
 
 	public static void main(String[] args) {
 		
