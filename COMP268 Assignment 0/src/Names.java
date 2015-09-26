@@ -34,7 +34,7 @@
  *  If yes, then repeat loop
  *  If no, then go to next stage of program
  *  
- *  Stage 2
+ *  Stage 2 (for loop maybe?)
  *  Enter the first name of the person that you're looking for
  *  If first name = 1.. 2.. 3.. 4.. 
  *  	Increment counter +1
